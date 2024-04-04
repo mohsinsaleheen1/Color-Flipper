@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+.main {
+  text-align: center;
+}
+#txt {
+  color: white;
+}
+#btn {
+  width: auto;
+  padding: 10px 30px 10px 30px;
+  font-size: large;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}
